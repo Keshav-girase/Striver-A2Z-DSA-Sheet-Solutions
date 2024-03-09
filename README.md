@@ -20,6 +20,3 @@ Feel free to explore the solutions provided in this repository to deepen your un
 
 Contributions to this repository are welcome! If you have a new solution or an improvement to an existing one, feel free to submit a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
